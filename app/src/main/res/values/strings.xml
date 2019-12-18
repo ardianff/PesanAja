@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PesanAja</string>
+    <string name="slogan">Wisata Jadi Lebih Asyik!</string>
+    <string name="signin">SIGN IN</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="continue_label">CONTINUE</string>
+    <string name="namee_label">Nama</string>
+    <string name="bio_label">Bio</string>
+    <string name="explore_label">EXPLORE NOW</string>
+    <string name="transaksi_sukses">Transaksi Sukses</string>
+    <string name="welcome">Selamat datang pada PesanAja \ndan nikmati wisatamu</string>
+    <string name="sukses_mendaftar">Sukses Mendaftar</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="tv_header">Please fill up the forms below \nfor informations</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="we_highly_suggest_you_to_nuse_the_correct_informations">We highly suggest you to \nuse the correct informations</string>
+    <string name="ticket_details">Ticket Details</string>
+    <string name="check_the_amount_of_tickets">Check the amount of tickets</string>
+    <string name="your_current_balance_is">Your current balance is</string>
+    <string name="total_price">Total Price</string>
+    <string name="information">Information</string>
+    <string name="knowing_before_travel">Knowing before travel</string>
+    <string name="tripot_everywhere">Tripot everywhere</string>
+    <string name="connect_to_any_tourist">Connect to any tourist</string>
+    <string name="dance_and_foods">Dance and Foods</string>
+    <string name="the_learning_of_the_tower_of_pisa_ncomes_into_the_story">The learning of the Tower of Pisa comes into the story.</string>
+    <string name="buy_ticket">BUY TICKET</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="nama_lokasi">Nama Lokasi</string>
+    <string name="jml_tiket">1</string>
+
+</resources>

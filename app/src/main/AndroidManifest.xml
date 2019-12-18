@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ardian.tiketsayanew">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.ardian.tiketsayanew.GetStartedAct"></activity>
+        <activity android:name="com.ardian.tiketsayanew.EditProfileAct" />
+        <activity android:name="com.ardian.tiketsayanew.MyTicketDetailAct" />
+        <activity android:name="com.ardian.tiketsayanew.MyProfileAct" />
+        <activity android:name="com.ardian.tiketsayanew.SuccessBuyTicketAct" />
+        <activity android:name="com.ardian.tiketsayanew.TicketCheckoutAct" />
+        <activity android:name="com.ardian.tiketsayanew.TicketDetailAct" />
+        <activity android:name="com.ardian.tiketsayanew.HomeAct" />
+        <activity android:name="com.ardian.tiketsayanew.SucessRegisterAct" />
+        <activity android:name="com.ardian.tiketsayanew.RegisterTwoAct" />
+        <activity android:name="com.ardian.tiketsayanew.RegisterOneAct" />
+        <activity android:name="com.ardian.tiketsayanew.SignInAct" />
+        <activity android:name="com.ardian.tiketsayanew.SplashAct">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
